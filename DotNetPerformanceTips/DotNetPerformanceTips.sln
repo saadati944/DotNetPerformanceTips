@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPerformanceTips", "..\..\projects\C#\3\csharp_optimizations\DotNetPerformanceTips\DotNetPerformanceTips\DotNetPerformanceTips.csproj", "{4189DEF9-B664-4D62-921D-C7C43988A76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4189DEF9-B664-4D62-921D-C7C43988A76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4189DEF9-B664-4D62-921D-C7C43988A76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4189DEF9-B664-4D62-921D-C7C43988A76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4189DEF9-B664-4D62-921D-C7C43988A76A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A643A4-5F8E-4F86-BEDB-23DC21CE7ED4}
+	EndGlobalSection
+EndGlobal
