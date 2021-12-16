@@ -31,7 +31,7 @@ int Sum(params int[] inputs) {
 
 ## Benchmarks
 
-Related codes : [Actual Class](../DotNetPerformanceTips/DotNetPerformanceTips/Tips/Params.cs), [Benchmark](../DotNetPerformanceTips/DotnetPerformanceTips/Benchmarks/ParamsBenchmark.cs)
+Related codes : [Actual Class](../DotNetPerformanceTips/DotNetPerformanceTips/Tips/Params.cs), [Benchmark](../DotNetPerformanceTips/DotNetPerformanceTips/Benchmarks/ParamsBenchmark.cs)
 
 ### Benchmark results
 
