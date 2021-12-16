@@ -10,6 +10,8 @@ public class ParamsBenchmark : Benchmark
 
     private int[] inputs;
 
+    public override string DisplayName => "Params keyword";
+
     public ParamsBenchmark()
     {
         simpleParams = new SimpleParams();
