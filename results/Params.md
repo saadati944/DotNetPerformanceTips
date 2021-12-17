@@ -35,7 +35,6 @@ Related codes : [Actual Class](../DotNetPerformanceTips/DotNetPerformanceTips/Ti
 
 ### Benchmark results
 
-```terminal
 |                          Method |      Mean | Allocated |
 |-------------------------------- |----------:|----------:|
 |             SimpleParams5Inputs | 9.2889 ns |      48 B |
@@ -43,7 +42,6 @@ Related codes : [Actual Class](../DotNetPerformanceTips/DotNetPerformanceTips/Ti
 |              SimpleParams0Input | 1.8979 ns |         - |
 |              SimpleParams2Input | 5.7846 ns |      32 B |
 | SimpleParamsWithOverloads2Input | 0.0048 ns |         - |
-```
 
 **Results are variable depending on the host machine !!!**
 
