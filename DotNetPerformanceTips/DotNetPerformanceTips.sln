@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPerformanceTips", "..\..\projects\C#\3\csharp_optimizations\DotNetPerformanceTips\DotNetPerformanceTips\DotNetPerformanceTips.csproj", "{4189DEF9-B664-4D62-921D-C7C43988A76A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPerformanceTips", ".\DotNetPerformanceTips\DotNetPerformanceTips.csproj", "{4189DEF9-B664-4D62-921D-C7C43988A76A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
